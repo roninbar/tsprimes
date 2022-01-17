@@ -1,0 +1,19 @@
+{
+  "name": "primes",
+  "version": "1.0.0",
+  "description": "Eratosthenes' Sieve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "primes",
+    "sieve",
+    "eratosthenes"
+  ],
+  "author": "Ron Inbar",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
